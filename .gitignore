@@ -1,0 +1,9 @@
+# Ignoruj wszystkie pliki z rozszerzeniem .db
+*.db
+
+#Ignoruj wszystkie pliki z rozszrzeniem .log
+*.log
+
+#Ignoruj katalogi o nazwie target i bin(w dowolonym miejscu w drzewie)
+target/
+bin/
